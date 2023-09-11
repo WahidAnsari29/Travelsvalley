@@ -1,0 +1,33 @@
+let suggestions = [
+    "Australia",
+    "Bali",
+    "Europe & UK",
+    "Hongkong & China",
+    "Kenya",
+    "Maldives",
+    "Mauritius",
+    "Nepal  & Bhutan",
+    "Russia",
+    "Seychelles",
+    "Singapore & Malaysia",
+    "Sri Lanka",
+    "Thailand",
+    "UAE",
+    "Vietnam",
+    "Andaman & Nicobar",
+    "Goa",
+    "Kashmir",
+    "Leh & Ladakh",
+    "Deals & Offers",
+    "Corporate Tours",
+    "Flights",
+    "Hotel",
+    "Villa",
+    "Cuise",
+    "About Us",
+    "Contact",
+    "Booking",
+
+
+
+];
